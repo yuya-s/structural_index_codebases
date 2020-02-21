@@ -1,0 +1,2 @@
+-i ../../data/robots.edge -k 2 -o test -if ../../constructing_index/construct_structuralindex/index/robots_2 -mg 10
+-i ../../data/robots.edge -k 2 -o test -if ../../constructing_index/construct_wastructuralindex/index/robots_2_wa_workload -iw ../../workload/query_fulllabel4k2 -mw ./maintenance_workload

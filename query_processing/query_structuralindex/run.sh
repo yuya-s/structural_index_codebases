@@ -1,0 +1,1 @@
+-i ../../data/robots.edge -k 2 -if ../../constructing_index/construct_structuralindex/index/robots_2 -qw ../../workload/query_fulllabel4k2
