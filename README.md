@@ -1,7 +1,7 @@
 # Structural Index for Conjunctive Path Queries
 
 We provide codebase for evaluating index techniques for conjunctive path queries.
-You can use this code to easily evaluate state-of-the-art indexes for conjunctive path queries on labeled-edge graphs.
+You can use this code to easily evaluate state-of-the-art indexes for conjunctive path queries on edge-labeled graphs.
 
 
 ## Setup
