@@ -76,6 +76,8 @@ Please see a file in 'workload' directory for more examples.
 
 ## Authors
 
+This is a joint project between Yuya Sasaki and Makoto Onizuka (Osaka University) and George Fletcher (Eindhoven University of Technology).
+
 Contact person: Yuya Sasaki, sasaki@ist.osaka-u.ac.jp
 
 http://www-bigdata.ist.osaka-u.ac.jp/professor/sasaki/en/index.html
