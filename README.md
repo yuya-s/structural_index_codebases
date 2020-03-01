@@ -81,7 +81,9 @@ This is a joint project between Yuya Sasaki (Osaka University), George Fletcher 
 Contact person: Yuya Sasaki, sasaki@ist.osaka-u.ac.jp
 
 http://www-bigdata.ist.osaka-u.ac.jp/professor/sasaki/en/index.html
+
 https://www.win.tue.nl/~gfletche/
+
 http://www-bigdata.ist.osaka-u.ac.jp/professor/onizuka/onizuka_en.html
 
 Don't hesitate to send us an e-mail or report an issue, if something is broken (and it shouldn't be) or if you have further questions.
