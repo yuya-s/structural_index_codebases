@@ -52,7 +52,6 @@ void QuerySet::InputFile(string workload_file, BisimulationIndex index_){
 
         if(index_.workloadindex&&labelFlag){
 
-            bool firstFlag;
             while(1) {
                 if(index_.workload[encodeLabel(labelset, index_.labelnum, index_.k)]){
                    queryprocessset.push_back(queryprocess);
@@ -62,7 +61,7 @@ void QuerySet::InputFile(string workload_file, BisimulationIndex index_){
                 else{
                     vector<string> tempprocess;
                     tempprocess.clear();
-                    if(firstFlag&&idFlag){
+                    if(idFlag){
                         tempprocess.push_back("j_id");
                         queryprocessset.push_back(tempprocess);
                         queryprocess.pop_back();
