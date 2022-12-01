@@ -76,14 +76,14 @@ Please see a file in 'workload' directory for more examples.
 ## Citing
 If you find our code is useful for your research, please consider citing the following paper:
 
-  @inproceedings{sasaki2022language,
-  title={Language-aware indexing for conjunctive path queries},
-  author={Sasaki, Yuya and Fletcher, George and Makoto, Onizuka},
-  booktitle={2022 IEEE 38th International Conference on Data Engineering (ICDE)},
-  pages={661--673},
-  year={2022},
-  organization={IEEE}
-  }
+    @inproceedings{sasaki2022language,
+    title={Language-aware indexing for conjunctive path queries},
+    author={Sasaki, Yuya and Fletcher, George and Makoto, Onizuka},
+    booktitle={2022 IEEE 38th International Conference on Data Engineering (ICDE)},
+    pages={661--673},
+    year={2022},
+    organization={IEEE}
+    }
 
 ## Authors
 
